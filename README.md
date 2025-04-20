@@ -1,3 +1,3 @@
-# ckad-training
+# cka-training
 
-Things I learned while preparing for and passing the CAKD exam.
+Things I learned while preparing for and passing the CAK exam.
